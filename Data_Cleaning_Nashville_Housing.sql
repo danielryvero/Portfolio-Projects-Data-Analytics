@@ -5,7 +5,7 @@ Cleaning Data using PostgreSQL RDBMS and pgAdmin 4
 In this project I will be creating a proper table in a database in pgAdmin 4
 that can receive the data from the Nasville Housing Dataset found on 
 
-https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data  
+[Kaggle] (https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data)  
 
 I will be commenting my code throughout the way
 */
