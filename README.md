@@ -7,3 +7,6 @@ that can receive the data from the COVID Dataset found on [Our World In Data](ht
 
 → <i class="fab fa-github">[Nashville Housing Data Cleaning:](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/Data_Cleaning_Nashville_Housing.sql)</i> Creating a proper table in a database in pgAdmin 4
 that can receive the data from the Nasville Housing Dataset found on [Kaggle](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data).
+
+→ <i class="fab fa-github">[Absenteeism Data Cleaning Excercise:](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/Absenteeism%20excercise_complete.ipynb)</i> This is a data cleaning excercise using Python language, specifically the [Pandas library](https://pandas.pydata.org/). Given a dataset that shows the absence from work during normal working hours, I will commit to the given task of cleaning the 
+[Absenteeism data](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/Absenteeism_Excercise_dataset.csv), commenting along and obtaining a final result of [clean dataset](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/df_cleaned.csv). Hope you enjoy it!
