@@ -10,3 +10,6 @@ that can receive the data from the Nasville Housing Dataset found on [Kaggle](ht
 
 → <i class="fab fa-github">[Absenteeism Data Cleaning Excercise:](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/Absenteeism%20excercise_complete.ipynb)</i> This is a data cleaning excercise using Python language, specifically the [Pandas library](https://pandas.pydata.org/). Given a dataset that shows the absence from work during normal working hours, I will commit to the given task of cleaning the 
 [Absenteeism data](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/Absenteeism_Excercise_dataset.csv), commenting along and obtaining a final result of [clean dataset](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/df_cleaned.csv). Hope you enjoy it!
+
+→ <i class="fab fa-github">[Web Scraping using iTunes API:](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/Web%20Scraping%20iTunes%20API.ipynb)</i>
+How to obtain a Dataset regarding your preferred artist on iTunes? Here is how. Read the [iTunes API](https://performance-partners.apple.com/search-api) documentation and obtain your very own and personalised [songs dataset](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/songs_info.csv) as an ouptut for further analysis.
