@@ -13,3 +13,7 @@ that can receive the data from the Nasville Housing Dataset found on [Kaggle](ht
 
 → <i class="fab fa-github">[Web Scraping using iTunes API:](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/Web%20Scraping%20iTunes%20API.ipynb)</i>
 How to obtain a Dataset regarding your preferred artist on iTunes? Here is how. Read the [iTunes API](https://performance-partners.apple.com/search-api) documentation and obtain your very own and personalised [songs dataset](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/songs_info.csv) as an ouptut for further analysis.
+
+→ <i class="fab fa-github">[Web Scraping an Amazon Page:](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/Web%20Scraping%20Amazon.ipynb)</i>
+Getting constant information about a page using just Python. Saving your own data to a file for further analysis is the basis for having really good data to analyze. An example of the output is here, in this [csv file](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/AmazonWebScraping.csv) and it can be enlarged even more by just running the script again.
+
