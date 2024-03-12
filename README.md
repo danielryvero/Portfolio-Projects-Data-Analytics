@@ -25,7 +25,7 @@ How to obtain a Dataset regarding your preferred artist on iTunes? Here is how. 
 ---
 
 → <i class="fab fa-github">[Web Scraping an Amazon Page:](/Web%20Scraping%20Amazon/)</i>
-Getting constant information about a page using just Python. Saving your own data to a file for further analysis is the basis for having really good data to analyze. An example of the output is here, in this [csv file](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/AmazonWebScraping.csv) and it can be enlarged even more by just running the script again.
+Getting constant information about a page using Beautiful Soup in Python to get the info inside the HTML code. Saving your own data to a file for further analysis is the basis for having really good data to analyze. An example of the output is here, in this [csv file](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/AmazonWebScraping.csv) and it can be enlarged even more by just running the script again.
 
 ---
 
