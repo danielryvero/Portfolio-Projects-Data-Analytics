@@ -10,22 +10,22 @@ that can receive the data from the COVID Dataset found on [Our World In Data](ht
 ---
 
 → <i class="fab fa-github">[Nashville Housing Data Cleaning:](/Data%20Cleaning/)</i> Creating a proper table in a database in pgAdmin 4
-that can receive the data from the Nasville Housing Dataset found on [Kaggle](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data).
+that can receive the data from the Nasville Housing Dataset found on [Kaggle](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data). PostgreSQL used to clean and transform the data as main tool. 
 
 ---
 
 → <i class="fab fa-github">[Absenteeism Data Cleaning Excercise:](/Absenteeism%20Excercise/)</i> This is a data cleaning excercise using Python language, specifically the [Pandas library](https://pandas.pydata.org/). Given a dataset that shows the absence from work during normal working hours, I will commit to the given task of cleaning the 
-[Absenteeism data](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/Absenteeism_Excercise_dataset.csv), commenting along and obtaining a final result of [clean dataset](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/df_cleaned.csv). Hope you enjoy it!
+[Absenteeism data](/Absenteeism%20Excercise/Absenteeism_Excercise_dataset.csv), commenting along and obtaining a final result of [clean dataset](/Absenteeism%20Excercise/df_cleaned.csv). Hope you enjoy it!
 
 ---
 
 → <i class="fab fa-github">[Web Scraping using iTunes API:](/Web%20Scraping%20iTunes/)</i>
-How to obtain a Dataset regarding your preferred artist on iTunes? Here is how. Read the [iTunes API](https://performance-partners.apple.com/search-api) documentation and obtain your very own and personalised [songs dataset](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/songs_info.csv) as an ouptut for further analysis.
+How to obtain a Dataset regarding your preferred artist on iTunes? Here is how. Read the [iTunes API](https://performance-partners.apple.com/search-api) documentation and obtain your very own and personalised [songs dataset](/Web%20Scraping%20iTunes/songs_info.csv) as an ouptut for further analysis. Jupyter Notebook used to visualize the code.
 
 ---
 
 → <i class="fab fa-github">[Web Scraping an Amazon Page:](/Web%20Scraping%20Amazon/)</i>
-Getting constant information about a page using Beautiful Soup in Python to get the info inside the HTML code. Saving your own data to a file for further analysis is the basis for having really good data to analyze. An example of the output is here, in this [csv file](https://github.com/danielryvero/Portfolio-Projects-Data-Analytics/blob/main/AmazonWebScraping.csv) and it can be enlarged even more by just running the script again.
+Getting constant information about a page using Beautiful Soup in Python to get the info inside the HTML code. Saving your own data to a file for further analysis is the basis for having really good data to analyze. An example of the output is here, in this [csv file](/Web%20Scraping%20Amazon/AmazonWebScraping.csv) and it can be enlarged even more by just running the script again.
 
 ---
 
