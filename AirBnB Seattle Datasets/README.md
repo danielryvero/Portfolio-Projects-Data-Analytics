@@ -4,6 +4,6 @@ Datasets from [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle) are used 
 
 Datasets are found [here](/AirBnB%20Seattle%20Datasets/Datasets/)
 
-Excel file used to load into Tableau is [here]().
+Excel file used to load into Tableau is [here](https://drive.google.com/drive/folders/1-Fmiwe_YIVsN87EYttitx4vcJFSzRxeR?usp=sharing).
 
 ![Alt text](<AirBnB Seattle.png>)
