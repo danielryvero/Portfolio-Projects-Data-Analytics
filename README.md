@@ -14,6 +14,11 @@ that can receive the data from the Nasville Housing Dataset found on [Kaggle](ht
 
 ---
 
+→ <i class="fab fa-github">[AirBnB Seattle overview in 2016:](/AirBnB%20Seattle%20Datasets/)</i> Datasets from [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle) are used to visualize the AirBnB house prices in Seattle, Washington. Excel is used to manage the [datasets](/AirBnB%20Seattle%20Datasets/Datasets/) and transform them into a [clean one](https://drive.google.com/drive/folders/1-Fmiwe_YIVsN87EYttitx4vcJFSzRxeR) to work with in [Tableau Public](https://public.tableau.com/app/profile/daniel.rivero5056/viz/AirBnBpricesseattle2016/airbnbprices). Have fun!
+
+
+---
+
 → <i class="fab fa-github">[Absenteeism Data Cleaning Excercise:](/Absenteeism%20Excercise/)</i> This is a data cleaning excercise using Python language, specifically the [Pandas library](https://pandas.pydata.org/). Given a dataset that shows the absence from work during normal working hours, I will commit to the given task of cleaning the 
 [Absenteeism data](/Absenteeism%20Excercise/Absenteeism_Excercise_dataset.csv), commenting along and obtaining a final result of [clean dataset](/Absenteeism%20Excercise/df_cleaned.csv). Hope you enjoy it!
 
