@@ -1,4 +1,4 @@
-# Data Cleaning and transformation using SQL
+# Data Cleaning and transformation using SQL - Nashville Housing
 
   PostgreSQL used to clean and transform this dataset obtained from [Kaggle](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data). pgAdmin4 as Relational Database Management System brings up facilities to create the tables, import the data and work with it thereafter.
 
