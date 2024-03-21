@@ -9,7 +9,7 @@ that can receive the data from the COVID Dataset found on [Our World In Data](ht
 
 ---
 
-→ <i class="fab fa-github">[Nashville Housing Data Cleaning:](/Data%20Cleaning/)</i> Creating a proper table in a database in pgAdmin 4
+→ <i class="fab fa-github">[Nashville Housing Data Cleaning:](/Data%20Cleaning%20-%20Nashville%20Housing/)</i> Creating a proper table in a database in pgAdmin 4
 that can receive the data from the Nasville Housing Dataset found on [Kaggle](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data). PostgreSQL used to clean and transform the data as main tool. 
 
 ---
