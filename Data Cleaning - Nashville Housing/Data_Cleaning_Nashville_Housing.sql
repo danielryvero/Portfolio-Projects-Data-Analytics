@@ -180,12 +180,12 @@ WITH duplicates AS (
   SELECT *,
     ROW_NUMBER() OVER (
 		PARTITION BY ParcelID,
-					 PropertyAddress, 
-					 SalePrice,
-					 SaleDate,
-					 LegalReference
-					 ORDER BY
-						parcelid) AS row_num
+			     PropertyAddress, 
+			     SalePrice,
+			     SaleDate,
+			     LegalReference
+				ORDER BY
+				parcelid) AS row_num
 	FROM Nashville_Housing)
 	
 --this part of the code is for checking what we are about to remove
@@ -193,8 +193,8 @@ WITH duplicates AS (
 SELECT *
 FROM duplicates
 WHERE row_num > 1
-Delete duplicate rows
 
+	--Delete duplicate rows
 -- this part actually removes the duplicates
 
 DELETE FROM Nashville_Housing
